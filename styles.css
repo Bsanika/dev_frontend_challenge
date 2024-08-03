@@ -42,11 +42,11 @@ header {
 }
 header h1 {
     font-size: 3rem;
-    margin-top: 150px;
+    margin-top: 10px;
     font-weight: bolder;
 }
 header p {
-    font-size: 1.5rem;
+    font-size: 1rem;
     font-weight: bold;
     align-items: center;
 }
@@ -71,7 +71,7 @@ section {
     transition: transform 0.3s ease;
 }
 section h2 {
-    font-size: 2.5em;
+    font-size: 2em;
     color: #004d40;
     margin-bottom: 20px;
     animation: slideIn 1s ease-in-out;
@@ -101,14 +101,12 @@ section p, section ul {
 
 #about h2 {
     margin-bottom: 20px;
-    font-size: 2em;
     color: #00796b;
 }
 
 #about p {
     text-align: left;
     padding: 0 20px;
-    font-size: 1.2em;
     max-width: 800px;
     margin: 0 auto 20px auto;
 }
@@ -164,18 +162,16 @@ section p, section ul {
 }
 
 #join h2 {
-    font-size: 2.5em;
+    font-size: 2em;
     margin-bottom: 20px;
     color: #004d40;
     animation: slideIn 1s ease-in-out;
 }
 
 #join pre {
-    font-size: 1.6rem;
+    font-size: 1.2rem;
     line-height: 1.6;
     animation: slideIn 3s ease-in-out;
-    /* margin: 0 auto; */
-    /* max-width: 800px; */
     font-family: 'Playfair Display', sans-serif;
     color: #555;
     
@@ -204,14 +200,14 @@ section p, section ul {
 }
 
 #fees h2 {
-    font-size: 2.5em;
+    font-size: 2em;
     margin-bottom: 20px;
     animation: slideIn 1s ease-in-out;
     color: #004d40;
 }
 
 #fees p {
-    font-size: 1.6rem;
+    font-size: 1.2rem;
     line-height: 1.6;
     margin: 0 auto;
     max-width: 800px;
@@ -221,7 +217,6 @@ section p, section ul {
 
 /* Location Section Styles */
 #location {
-    
     padding: 60px 30px;
     text-align: center;
     position: relative;
@@ -231,14 +226,14 @@ section p, section ul {
 }
 
 #location h2 {
-    font-size: 2.5em;
+    font-size: 2em;
     margin-bottom: 20px;
     color: #004d40;
     animation: slideIn 1s ease-in-out;
 }
 
 #location p {
-    font-size: 1.6rem;
+    font-size: 1.2rem;
     line-height: 1.6;
     margin: 0 auto;
     max-width: 800px;
@@ -257,14 +252,14 @@ section p, section ul {
 } 
 
 #schedule h2 {
-    font-size: 2.5em;
+    font-size: 2em;
     margin-bottom: 20px;
     color: #004d40;
     animation: slideIn 1s ease-in-out;
 }
 
 #schedule p {
-    font-size: 1.6rem;
+    font-size: 1.2rem;
     line-height: 1.6;
     margin: 0 auto;
     max-width: 800px;
